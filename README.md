@@ -1,7 +1,4 @@
 # home_project_2
-
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -15,3 +12,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # WOA_Planner
+
+
+https://github.com/kovalenkoalexey/WOA_Planner/assets/105450960/ccae1b88-09e2-4de1-b313-b21af1d7a822
+
